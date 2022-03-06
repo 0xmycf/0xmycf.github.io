@@ -4,4 +4,4 @@
 trunk clean
 trunk build
 
-mv dist/* ../pages/
+mv dist/* ../docs/
